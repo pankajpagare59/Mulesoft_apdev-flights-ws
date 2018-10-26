@@ -1,0 +1,11 @@
+{
+    "inputMessageMetadata": {},
+    "outputMessageMetadata": {
+        "messagePayload": {
+            "connectorName": "#_custom_mule_metadata_type_#",
+            "typeId": "Flight_pojo"
+        }
+    },
+    "id": "705e9921-9fcf-40c8-b10d-b5112518931e",
+    "version": "5.2.0.0"
+}
